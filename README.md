@@ -1,3 +1,4 @@
+
 hobbs.py
 ________
 
@@ -43,3 +44,10 @@ It has also been expanded to handle reflexive pronouns. The algorithm is given b
 9.	Go to step 4. 
 
 
+##### Requirements
+
+You need nltk and queue for the script to work properly. You can either install manually or use the requirements.txt file. 
+
+Also, nltk corpus 'names' need to be downloaded. You can download by running the following command on your terminal
+
+` python -m nltk.downloader names`
